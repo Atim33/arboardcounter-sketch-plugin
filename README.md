@@ -1,9 +1,9 @@
-A Sketch Plugin to Count Sketch Artboards and Sketch Pages.
+# A Sketch Plugin to Count Sketch Artboards and Sketch Pages.
 
 
--- latest version and notes --
+## -- latest version and notes --
 https://github.com/Atim33/arboardcounter-sketch-plugin
 
 
-Regards,
-KhY.
+## Thanks
+Hope you find this plugin useful. If you have ideas to improve it, please don't hesitate to create a new issue or pull request. Regards, KhY.
