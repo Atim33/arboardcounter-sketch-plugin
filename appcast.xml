@@ -16,16 +16,5 @@
         </description>
         <enclosure url="https://github.com/Atim33/arboardcounter-sketch-plugin/archive/master.zip" sparkle:version="3.46"/>
     </item>
-    <item>
-        <title>Version 1.12</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>Minor update v1.12</li>
-            </ul>
-          ]]>
-        </description>
-        <enclosure url="https://github.com/Atim33/arboardcounter-sketch-plugin/archive/1.12.zip" sparkle:version="1.12"/>
-    </item>
   </channel>
 </rss>
