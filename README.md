@@ -1,8 +1,7 @@
 A simple Sketch Plugin to Count Sketch Artboards (document wide) and Sketch Pages.
 
 
-Latest version and notes --
-https://github.com/Atim33/arboardcounter-sketch-plugin
+Latest version and notes: https://github.com/Atim33/arboardcounter-sketch-plugin
 
 
 Thanks
