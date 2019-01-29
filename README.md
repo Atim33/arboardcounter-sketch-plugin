@@ -1,4 +1,4 @@
-A Sketch Plugin to Count Sketch Artboards and Sketch Pages.
+A simple Sketch Plugin to Count Sketch Artboards (document wide) and Sketch Pages.
 
 
 Latest version and notes --
