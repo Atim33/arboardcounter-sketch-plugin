@@ -6,7 +6,7 @@
     <description>A Sketch Plugin to Count Sketch Artboards and Sketch Pages.</description>
     <language>en</language>
     <item>
-        <title>Version 2.61</title>
+        <title>Version 2.65</title>
         <description>
           <![CDATA[
             <ul>
@@ -14,7 +14,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/Atim33/arboardcounter-sketch-plugin/archive/master.zip" sparkle:version="2.61"/>
+        <enclosure url="https://github.com/Atim33/arboardcounter-sketch-plugin/archive/master.zip" sparkle:version="2.65"/>
     </item>
   </channel>
 </rss>
