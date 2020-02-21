@@ -1,7 +1,8 @@
 {
     "name": "K - Artboard Counter",
     "identifier": "khy.artboardcount",
-    "version": "1.20",
+    "version": "2.61",
+	"icon": "icon.png",
     "description": "A Sketch Plugin to Count Sketch Artboards and Sketch Pages.",
     "homepage": "https://github.com/Atim33/arboardcounter-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/Atim33/arboardcounter-sketch-plugin/master/appcast.xml",
