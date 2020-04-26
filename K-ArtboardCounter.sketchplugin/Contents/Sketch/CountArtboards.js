@@ -8,7 +8,7 @@ function onRun(context) {
 	//var selection = context.selection;
 	//var selectionCount = selection.count();
 	var doc = context.document;
-   
+
      
 	//------------------------------
 	// Current Sketch Page loop
@@ -28,7 +28,7 @@ function onRun(context) {
    		}
 	}		
 	   
-     
+	
 	//------------------------------
 	// All Sketch Pages loop
 	//------------------------------
@@ -99,6 +99,7 @@ function onRun(context) {
 		alertMsg("📟 Artboard & Page Counter", instructions)
 	}
     //doc.showMessage(instructions);
+	
    
 }
 
@@ -114,10 +115,17 @@ function isArtboard(layer) {
 // Show an alert
 //-------------------------------------------------------------------------------
 function alertMsg(title, message) {
+  //var textField = [[NSTextField alloc] initWithFrame:NSMakeRect(0, 0, 400, 1)];
+  //NSTextView *accessory = [[NSTextField alloc] initWithFrame:NSMakeRect(0,0,200,15)];
+
   var alert = NSAlert.alloc().init()
   alert.setMessageText(title)
   alert.setInformativeText(message)
   alert.addButtonWithTitle("Done")
+
+  //alert.setAccessoryView(accessory);
+  //[accessory setEditable:NO];
+	
   return alert.runModal()
 }
 
